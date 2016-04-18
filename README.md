@@ -1,3 +1,0 @@
-# AnArmyOfOne
-
-iOS Swift App.
